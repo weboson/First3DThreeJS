@@ -1,0 +1,14 @@
+{
+  "name": "first3dthreejs",
+  "version": "1.0.0",
+  "description": "Create first 3D Animation with Three JS",
+  "main": "js/main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rishat (Weboson)",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.151.3"
+  }
+}
